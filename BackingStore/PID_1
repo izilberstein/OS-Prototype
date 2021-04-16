@@ -1,0 +1,21 @@
+set x 10
+print x
+set x 20
+print x
+set x 30
+print x
+set x 40
+print x
+set x 50
+print x
+set x 60
+print x
+set x 70
+print x
+set x 80
+print x
+set x 90
+print x
+set x 100
+print x
+quit

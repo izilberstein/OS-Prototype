@@ -1,0 +1,35 @@
+help
+set ITAI COOL
+print ITAI 
+set ITAI VERY COOL
+print ITAI
+print noVariable
+run script.txt
+exec script2.txt script1.txt script3.txt
+exec script.txt script.txt
+exec script1.txt noSuchFile
+exec noSuchFile
+set text ------Beginning disk tests--------
+print text
+mount my_partition 6 4
+write file1 [ABCD]
+write file2 [12345]
+write file2 [678]
+write file1 [EFGHIJK]
+write file2 [DISK FULL]
+read file1 1
+read file2 2
+print 1
+print 2
+mount my_partition 10 10
+read file1 1
+read file2 2
+print 1
+print 2
+mount my_partition 10 10
+write file1 [OVERWRITTING]
+mount my_partition 10 10
+read file1 1
+print 1
+quit
+

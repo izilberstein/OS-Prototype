@@ -1,0 +1,20 @@
+set ITAI STARTING SCRIPT.TXT!
+print ITAI
+set a a
+set b b
+set c c
+set d d
+print a
+print b
+print c
+print d
+set a e
+set b f
+set c g
+set d h
+print a
+print b
+print c
+print d
+quit
+

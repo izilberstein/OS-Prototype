@@ -1,0 +1,21 @@
+set z 100
+print z
+set z 200
+print z
+set z 300
+print z
+set z 400
+print z
+set z 500
+print z
+set z 600
+print z
+set z 700
+print z
+set z 800
+print z
+set z 900
+print z
+set z 1000
+print z
+quit

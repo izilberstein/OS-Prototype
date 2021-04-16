@@ -1,0 +1,21 @@
+set y 1
+print y
+set y 2
+print y
+set y 3
+print y
+set y 4
+print y
+set y 5
+print y
+set y 6
+print y
+set y 7
+print y
+set y 8
+print y
+set y 9
+print y
+set y 10
+print y
+quit
